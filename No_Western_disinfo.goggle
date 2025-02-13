@@ -1,0 +1,8 @@
+! name: No Western disinfo (German centered)
+! description: Discard Western news and platforms which are racist or otherwise non-inclusive, discriminatory, flat-out lying all the time etc. (warning: other desinfo is NOT excluded). Main goal os to let you view alternative media. Therefore sites that also include lots of alternative (to Western) views may be allowed.
+! public: true
+! author: Markus Prokott
+! avatar: crimson
+! license: CC BY-SA 4.0 (like Wikipedia)
+
+$discard,site=tageschau.de
